@@ -7,8 +7,12 @@ sites:
     url: https://griffinlarson.com
   - name: Reverse Proxy
     url: https://proxy.hotdish5.com
+    expectedStatusCodes:
+      - 503
   - name: Authelia
     url: https://auth.hotdish5.com
+    expectedStatusCodes:
+      - 503
   - name: Matomo
     url: https://analytics.hotdish5.com
 
