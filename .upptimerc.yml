@@ -15,6 +15,8 @@ sites:
       - 503
   - name: Matomo
     url: https://analytics.hotdish5.com
+    expectedStatusCodes:
+      - 503
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
