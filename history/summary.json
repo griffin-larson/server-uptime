@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/proxy.hotdish5.com",
     "slug": "reverse-proxy",
     "status": "down",
-    "uptime": "5.71%",
-    "uptimeDay": "5.71%",
-    "uptimeWeek": "5.71%",
-    "uptimeMonth": "5.71%",
-    "uptimeYear": "5.71%",
+    "uptime": "1.19%",
+    "uptimeDay": "1.19%",
+    "uptimeWeek": "1.19%",
+    "uptimeMonth": "1.19%",
+    "uptimeYear": "1.19%",
     "time": 102,
     "timeDay": 102,
     "timeWeek": 102,
     "timeMonth": 102,
     "timeYear": 102,
     "dailyMinutesDown": {
-      "2022-02-01": 0
+      "2022-02-01": 2
     }
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://favicons.githubusercontent.com/auth.hotdish5.com",
     "slug": "authelia",
     "status": "down",
-    "uptime": "8.87%",
-    "uptimeDay": "8.87%",
-    "uptimeWeek": "8.87%",
-    "uptimeMonth": "8.87%",
-    "uptimeYear": "8.87%",
+    "uptime": "0.53%",
+    "uptimeDay": "0.53%",
+    "uptimeWeek": "0.53%",
+    "uptimeMonth": "0.53%",
+    "uptimeYear": "0.53%",
     "time": 72,
     "timeDay": 72,
     "timeWeek": 72,
     "timeMonth": 72,
     "timeYear": 72,
     "dailyMinutesDown": {
-      "2022-02-01": 0
+      "2022-02-01": 2
     }
   },
   {
