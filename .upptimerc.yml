@@ -9,18 +9,18 @@ sites:
     url: https://proxy.hotdish5.com
   - name: Authelia
     url: https://auth.hotdish5.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Matomo
+    url: https://analytics.hotdish5.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.hotdish5.com
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://file.hotdish5.com/wl/?id=E79arluwlJNazhh4WTViTO1cYwzyjRQe&fmode=open
   name: Hotdish5.com Server Uptime
-  introTitle: "This page provides uptime information and the current status of services hosted by me, [**Griffin Larson**](https://griffinlarson.com)."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "Hotdish5.com Uptime & Status Information"
+  introMessage: This page provides uptime information and the current status of services hosted by me, [**Griffin Larson**](https://griffinlarson.com).
   navbar:
     - title: Status
       href: /
