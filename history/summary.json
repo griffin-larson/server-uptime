@@ -4,18 +4,20 @@
     "url": "https://griffinlarson.com",
     "icon": "https://favicons.githubusercontent.com/griffinlarson.com",
     "slug": "griffin-larson-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 279,
-    "timeDay": 348,
-    "timeWeek": 279,
-    "timeMonth": 279,
-    "timeYear": 279,
-    "dailyMinutesDown": {}
+    "time": 276,
+    "timeDay": 302,
+    "timeWeek": 276,
+    "timeMonth": 276,
+    "timeYear": 276,
+    "dailyMinutesDown": {
+      "2022-02-05": 0
+    }
   },
   {
     "name": "Reverse Proxy",
